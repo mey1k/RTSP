@@ -20,7 +20,7 @@ Visual Studio 2015 Enterprise
 
 ## License
 
-BSD License
+none
 
 ## Acknowledgments
 
